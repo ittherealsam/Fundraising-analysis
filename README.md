@@ -1,12 +1,12 @@
 # Fundraising-analysis
-
+Taught me how 
 
 ## Overview of Project
-
+My overview of this project is to collect datat
 ### Purpose
-
+The Purpose was to collect data of fundrasing  compaign
 ## Analysis and Challenges
-
+The challenges of this project was at first collect and putting the data into it
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
